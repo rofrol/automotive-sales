@@ -19,7 +19,7 @@ Later maybe some Rust server which can download and parse some data from xlsx fi
     - https://duckduckgo.com/?q=VDA gives
       - https://en.m.wikipedia.org/wiki/Verband_der_Automobilindustrie
       - https://www.vda.de/
-        - gives https://www.vda.de/en/Search-Results.html?q=annual+report+2019 which gives
+        - https://www.vda.de/en/Search-Results.html?q=annual+report+2019
           - https://www.vda.de/en/services/Publications/annual-report-2018.html
           - https://www.vda.de/en/services/Publications/annual-report-2016.html
           - https://www.vda.de/en/services/Publications/annual-report-2014.html
