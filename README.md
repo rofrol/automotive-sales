@@ -1,6 +1,6 @@
 # Automotive sales
 
-Purpose of this repository is to gather data about automotive sales, so that it can be easy to compare sales across energy source (bev, phev, ice etc.), geography (USA, EU, Germany, Norway, China etc.), vehicle type (light passenger vehicle, light truck, SUV, CUV, corssover etc.).
+Purpose of this repository is to gather data about automotive sales, so that it can be easy to compare sales across time (month, quarter, month, ytd etc.), energy source (bev, phev, ice etc.), geography (USA, EU, Germany, Norway, China etc.), vehicle type (light passenger vehicle, light truck, SUV, CUV, corssover etc.).
 
 For the start there will appear some links. Later there should be some json files with data and then some github page which will present this json data in graphical form probably using Elm.
 
