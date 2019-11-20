@@ -25,6 +25,11 @@ Later maybe some Rust server which can download and parse some data from xlsx fi
           - https://www.vda.de/en/services/Publications/annual-report-2014.html
           - https://www.vda.de/en/services/Publications/annual-report-2013.html
           - https://www.vda.de/en/services/Publications/annual-report-2012.html
+- https://duckduckgo.com/?q=car+sales+data+usa+2019+site%3Areddit.com
+  - https://www.reddit.com/r/CarsIndia/comments/dtcfa9/car_sales_for_october_2019_is_up_1_yoy/
+    - https://www.team-bhp.com/forum/indian-car-scene/215376-october-2019-indian-car-sales-figures-analysis.html
+      - "Thanks to the team at Auto Punditz for sharing these sales numbers with us!"
+        - http://www.autopunditz.com/
 
 ## Paywall
 
