@@ -8,7 +8,9 @@ Later maybe some Rust server which can download and parse some data from xlsx fi
 
 ## Links
 
-- https://en.m.wikipedia.org/wiki/Automotive_industry_in_the_United_States
-  - Embeds this https://en.m.wikipedia.org/wiki/File:Total_Vehicle_sales_in_the_US.png which says "Source: U.S. Bureau of Economic Analysis".
-    - When searching https://duckduckgo.com/?q=total+vehicles+sales+site%3Abea.gov I got this https://www.bea.gov/docs/gdp/auto-and-truck-seasonal-adjustment
-      - Which points to this https://www.bea.gov/system/files/2019-11/gap_histALT_0.xlsx
+- This https://duckduckgo.com/?q=suv+sales+usa+2019+wikipedia
+  - gives this https://en.m.wikipedia.org/wiki/Automotive_industry_in_the_United_States
+    - embeds this https://en.m.wikipedia.org/wiki/File:Total_Vehicle_sales_in_the_US.png which says "Source: U.S. Bureau of Economic Analysis".
+      - with this https://duckduckgo.com/?q=total+vehicles+sales+site%3Abea.gov
+        - I got this https://www.bea.gov/docs/gdp/auto-and-truck-seasonal-adjustment
+          - which points to this https://www.bea.gov/system/files/2019-11/gap_histALT_0.xlsx
