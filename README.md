@@ -6,7 +6,7 @@ For the start there will appear some links. Later there should be some json file
 
 Later maybe some Rust server which can download and parse some data from xlsx files from https://bea.gov.
 
-## Links
+## Available
 
 - This https://duckduckgo.com/?q=suv+sales+usa+2019+wikipedia
   - gives this https://en.m.wikipedia.org/wiki/Automotive_industry_in_the_United_States
@@ -25,3 +25,16 @@ Later maybe some Rust server which can download and parse some data from xlsx fi
           - https://www.vda.de/en/services/Publications/annual-report-2014.html
           - https://www.vda.de/en/services/Publications/annual-report-2013.html
           - https://www.vda.de/en/services/Publications/annual-report-2012.html
+
+## Paywall
+
+- https://wardsintelligence.informa.com/search#?q=sales&page=1&gating=Data&sortBy=date&sortOrder=desc#searchTop
+  - https://wardsintelligence.informa.com/WI060724/US-SAAR-History-by-Month-1980current
+  - https://wardsintelligence.informa.com/WI964290/North-America-Production-October-2019
+- https://www.statista.com/statistics/200002/international-car-sales-since-1990/
+- https://duckduckgo.com/?q=car+sales+data+usa+2019+site%3Areddit.com
+  - https://www.reddit.com/r/teslamotors/comments/d1mu2v/usa_august_overall_car_sales_2019/
+    - There is no data: "Full September 2019 Top 15 groups, Top 40 brands and Top 285 All-models below" https://bestsellingcarsblog.com/2019/09/usa-august-2019-fleet-incentives-lift-market-to-largest-gain-in-4-years-10-3-toyota-rav4-and-honda-cr-v-break-all-time-records/
+      - but here I can read September and October data now https://bestsellingcarsblog.com/2019/11/usa-october-2019-hyundai-kia-11-honda-motor-8-2-shine-in-market-down-1-6-on-track-for-17m-year/. Maybe it won't be available next month?
+         - For detailed tables: "Source: Manufacturers, ANDC, GCBC"
+         - For incentive outlays: "Source : ALG"
